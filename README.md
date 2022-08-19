@@ -8,6 +8,6 @@ For **Game Algorithm** and **Computer Graphic**, please move to !Constructing!
 
 ## Topic
 
-#### 1. [Warehouse Wreckage](https://github.com/evan901010/Unreal-5-practice/tree/main/Warehouse%20Wreckage)-BP
+#### 1. [Warehouse Wreckage](https://github.com/evan901010/Unreal-5-practice/tree/main/Warehouse%20Wreckage)(BP)
 
 ![](https://github.com/evan901010/Unreal-5-practice/blob/main/demo/Warehouse%20Wreckage.gif)
