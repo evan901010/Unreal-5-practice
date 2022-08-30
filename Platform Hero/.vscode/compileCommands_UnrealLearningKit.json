@@ -1,0 +1,27 @@
+[
+	{
+		"file": "C:\\Users\\Evan Hu\\Desktop\\unreal\\Fall gays\\Source\\UnrealLearningKit\\MovingPlatform.cpp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"C:\\Users\\Evan Hu\\Desktop\\unreal\\Fall gays\\.vscode\\compileCommands_UnrealLearningKit\\UnrealLearningKit.203.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Evan Hu\\Desktop\\unreal\\Fall gays\\Source\\UnrealLearningKit\\MovingPlatform.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"C:\\Users\\Evan Hu\\Desktop\\unreal\\Fall gays\\.vscode\\compileCommands_UnrealLearningKit\\UnrealLearningKit.203.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Evan Hu\\Desktop\\unreal\\Fall gays\\Source\\UnrealLearningKit\\UnrealLearningKit.Build.cs",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"C:\\Users\\Evan Hu\\Desktop\\unreal\\Fall gays\\.vscode\\compileCommands_UnrealLearningKit\\UnrealLearningKit.203.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Evan Hu\\Desktop\\unreal\\Fall gays\\Source\\UnrealLearningKit\\UnrealLearningKit.cpp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"C:\\Users\\Evan Hu\\Desktop\\unreal\\Fall gays\\.vscode\\compileCommands_UnrealLearningKit\\UnrealLearningKit.203.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Evan Hu\\Desktop\\unreal\\Fall gays\\Source\\UnrealLearningKit\\UnrealLearningKit.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"C:\\Users\\Evan Hu\\Desktop\\unreal\\Fall gays\\.vscode\\compileCommands_UnrealLearningKit\\UnrealLearningKit.203.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	}
+]
