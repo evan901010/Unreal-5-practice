@@ -1,5 +1,5 @@
 # Warehouse Wreckage
-> Warehouse Wreckage is a simple game which allows you to destroy the warehouse. You can emit projectiles to knock out every object in the warehouse. After you run out all your ammo, the game will restart in 5 seconds.
+> Warehouse Wreckage is a simple game which allows you to destroy the warehouse. You can emit projectile to knock out every objects in the warehouse. After you run out all your ammo, the game will restart in 5 second.
 
 - **Difficulty**: Simple
 - **Programming Language**: Blueprint
